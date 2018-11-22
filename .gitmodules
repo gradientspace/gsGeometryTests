@@ -4,3 +4,6 @@
 [submodule "gsGeometry"]
 	path = gsGeometry
 	url = https://github.com/gradientspace/gsGeometry
+[submodule "gsShapeModels"]
+	path = gsShapeModels
+	url = https://github.com/gradientspace/gsShapeModels
