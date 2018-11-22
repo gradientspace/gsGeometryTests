@@ -1,0 +1,1 @@
+Copyright Ryan Schmidt / gradientspace 2017

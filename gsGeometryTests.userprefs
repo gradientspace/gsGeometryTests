@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A4F9B1D5-6AA8-4D2C-B759-9977B2C49717}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gsGeometry/mesh_ops/MergeCoincidentEdges.cs">
+    <Files>
+      <File FileName="gsGeometryTests/Program.cs" Line="13" Column="79" />
+      <File FileName="gsGeometry/mesh_ops/MergeCoincidentEdges.cs" Line="68" Column="4" />
+      <File FileName="gsGeometry/spatial/PointSetHashtable.cs" Line="3" Column="1" />
+      <File FileName="gsGeometryTests/mesh_ops/test_MergeCoincidentEdges.cs" Line="16" Column="61" />
+      <File FileName="gsGeometryTests/TestUtil.cs" Line="88" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.gsGeometryTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
