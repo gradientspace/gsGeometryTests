@@ -1,9 +1,0 @@
-[submodule "gsGeometry"]
-	path = gsGeometry
-	url = https://bitbucket.org/gradientspace/gsgeometry
-[submodule "geometry3Sharp"]
-	path = geometry3Sharp
-	url = https://github.com/gradientspace/geometry3Sharp
-[submodule "gsShapeModels"]
-	path = gsShapeModels
-	url = https://bitbucket.org/gradientspace/gsshapemodels
