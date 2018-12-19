@@ -61,18 +61,6 @@ namespace gsAutoRepairTool
             //    verbose = arguments.Flags["-v"];
 
 
-            try {
-                WebClient Client = new WebClient();
-                Client.Headers.Add(HttpRequestHeader.UserAgent, "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)");
-                byte[] data = Client.DownloadData("http://gradientspace.com/s/0xdeadbeef77.txt");
-                if (data.Length == 0)
-                    throw new Exception();
-            } catch {
-                System.Console.WriteLine("sorry, either network access is required or your trial has expired!");
-                return;
-            }
-
-
             List<DMesh3> meshes;
             try {
                 DMesh3Builder builder = new DMesh3Builder();
